@@ -11,8 +11,7 @@
     ],
     "require": {
         "magento/framework": "*",
-        "magento/magento-composer-installer": "*",
-        "magento/module-catalog": "^103.0.4"
+        "magento/magento-composer-installer": "*"
     },
     "require-dev": {
         "smile/magento2-smilelab-quality-suite": "^1.0.5",
